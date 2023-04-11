@@ -332,8 +332,10 @@ Here is an example of how a compliance officer at a bank could create scenarios 
 
 In this instance, a compliance officer wants to design a crime similar to those revealed in the Panama Papers and create the policies and controls to prevent it.
 
-![Image of SEC Rule](images/pan_pap1.png)
-![Image of SEC Rule](images/pan_pap2.png)
+<!-- ![Image of SEC Rule](images/pan_pap1.png)
+![Image of SEC Rule](images/pan_pap2.png) -->
+
+![Image of SEC Rule](images/pan_pap4.png)
 
 #### Prompt 1
 ```
@@ -360,7 +362,7 @@ TRANSACTIONS
 #### Example 2
 Now you will outline the new controls and policies necessary to preven this scenario. 
 
-![Image of SEC Rule](images/pan_pap3.png)
+![Image of SEC Rule](images/pan_pap5.png)
 
 #### Prompt 2
 ```
