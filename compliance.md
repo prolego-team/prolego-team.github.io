@@ -366,5 +366,5 @@ Now you will outline the new controls and policies necessary to preven this scen
 
 #### Prompt 2
 ```
-Design the policy and controls at BiggyBank to prevent this scenario from happening or mitigate the repercussions. 
+You are in a competition with other compliance officers to design the policy and controls at BiggyBank to prevent this scenario from happening or mitigate the repercussions. Be creative and generate the most specific controls with the highest likelihood of success. For example, don't simply advocate for training. Instead, suggest new systems or processes.
 ```
